@@ -55,6 +55,12 @@
   <img src="https://lanyard.cnrad.dev/api/915809531865477180?&bg=141321&borderRadius=20px&hideTimestamp=true" alt="main discord acc status"> -->
 </div>
 
+###
+
+<div align="center" display="inline">
+  <h4>My Game Accounts</h4>
+  <img src="https://genshin-card-phi.vercel.app/gi/75/298543184.png" alt="Genshin">
+</div>
 
 ###
 
