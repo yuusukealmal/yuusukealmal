@@ -60,7 +60,6 @@
 <div align="center" display="inline">
   <h4>My Game Accounts</h4>
   <img src="https://genshin-card-phi.vercel.app/gi/75/298543184.png" alt="Genshin">
-  <img width="12" />
   <img src="https://genshin-card-phi.vercel.app/zzz/1/298543184.png" alt="Genshin">
 </div>
 
