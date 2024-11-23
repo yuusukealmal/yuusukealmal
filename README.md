@@ -59,8 +59,8 @@
 
 <div align="center" display="inline">
   <h4>My Game Accounts</h4>
-    <img src="https://genshin-card-phi.vercel.app/hi3/0/298543184.png" alt="Honkai Impact 3rd">
-    <img src="https://genshin-card-phi.vercel.app/gi/0/298543184.png" alt="Genshin Impact">
+    <img src="https://hoyocard.vercel.app/hi3/0/298543184.png" alt="Honkai Impact 3rd">
+    <img src="https://hoyocard.vercel.app/gi/0/298543184.png" alt="Genshin Impact">
     <br>
     <img src="https://hoyocard.vercel.app/hsr/75/298543184.png" alt="Honkai Starrail">
     <img src="https://hoyocard.vercel.app/zzz/0/298543184.png" alt="Zenless Zone Zero">
