@@ -57,7 +57,7 @@
   <img src="https://lanyard.cnrad.dev/api/915809531865477180?&bg=141321&borderRadius=20px&hideTimestamp=true" alt="main discord acc status"> -->
 </div>
 
-###
+<!-- ###
 
 <div align="center" display="inline">
   <h4>My Game Accounts</h4>
@@ -73,4 +73,4 @@
 <div align="center">
   <h4>A noob osu! player</h4>
   <img src="https://osu-sig.vercel.app/card?user=69you&mode=std&lang=en&animation=true" alt="osu! stats">
-</div>
+</div> -->
