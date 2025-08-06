@@ -29,11 +29,11 @@
   </a>
 </div>
 
-## Coding Time
+<!--## Coding Time
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yuusukealmal&theme=dark&layout=compact&langs_count=12" />
-</div>
+ </div> -->
 
 ## GitHub Stats
 
