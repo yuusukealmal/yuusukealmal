@@ -6,8 +6,8 @@
 
 ## About Me
 
-- First-year Computer Science and Information Engineering student at Yuntech
-- Working on small projects, including programs related to _The Battle Cats_ and Mihoyo games
+- Second-year Computer Science and Information Engineering student at Yuntech
+- Working on small projects, including programs related to ~~_The Battle Cats_~~ and Mihoyo games
 - Learning Rust and exploring reverse engineering
 - Programming noob wait for you to teach me!
 
@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=rust,flutter,py,javascript,cs" height="40" alt="Skill" />
 </div>
 
-## Tools I Use
+<!-- ## Tools I Use
 
 <div align="center">
   <a href="https://code.visualstudio.com">
@@ -27,13 +27,13 @@
   <a href="https://visualstudio.microsoft.com/downloads/">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="30" alt="Visual Studio" />
   </a>
-</div>
+</div>-->
 
-<!--## Coding Time
+## Coding Time
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yuusukealmal&theme=dark&layout=compact&langs_count=12" />
- </div> -->
+ </div>
 
 ## GitHub Stats
 
