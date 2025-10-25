@@ -29,17 +29,13 @@
   </a>
 </div>-->
 
-## Coding Time
+## Coding Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yuusukealmal&theme=dark&layout=compact&langs_count=12" />
- </div>
-
-## GitHub Stats
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuusukealmal&theme=dark&layout=compact&langs_count=12" height="150" />
+  <img width="8">
   <img src="https://github-readme-stats.vercel.app/api?username=yuusukealmal&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img width="12" />
+  <img width="8">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuusukealmal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue-dark&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
