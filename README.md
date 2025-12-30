@@ -7,7 +7,7 @@
 ## About Me
 
 - Second-year Computer Science and Information Engineering student at Yuntech
-- Working on small projects, including programs related to ~~_The Battle Cats_~~ and Mihoyo games
+- Working on small projects, including programs related to ~~_The Battle Cats_~~ and ~~__Mihoyo games__~~
 - Learning Rust and exploring reverse engineering
 - Programming noob wait for you to teach me!
 
